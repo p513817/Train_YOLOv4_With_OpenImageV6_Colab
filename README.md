@@ -1,4 +1,4 @@
-# Train_YOLOv4_on_Colab
+# Train_YOLOv4_With_OpenImageV6_Colab
 透過 Google Colab 運行 YOLOv4，並使用 OpenImage  V6 的數據集進行遷移式學習，訓練客製化的YOLO模型。
 
 ![image](predictions_res.jpg)
